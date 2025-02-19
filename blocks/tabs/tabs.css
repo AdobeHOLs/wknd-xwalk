@@ -29,7 +29,7 @@
     color: #fff;
 }
 
-body.activity main {
+/* body.activity main {
     grid-auto-flow: column;
     grid-template-rows: auto auto min-content minmax(auto, 100%);
     grid-template-areas:
@@ -51,4 +51,4 @@ body.activity main [data-tab] {
 
 body.activity main [data-tab] :first-child {
     margin-top: 0;
-}
+} */
